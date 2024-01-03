@@ -1,5 +1,3 @@
-Description:
-
 This project marks a significant milestone in my journey as a full-stack developer. I've successfully built my first React app, and I couldn't be more excited to share it with you! The project is a testament to the power and versatility of React, a JavaScript library for building user interfaces.
 
 Special Thanks:
